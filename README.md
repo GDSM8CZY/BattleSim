@@ -1,6 +1,6 @@
 # What is this
 This is a game I made for my Python class, where you have to fight an enemy.
-This was the first time I used classes, so they don't have any methods
+This was the first time I used classes, so they don't have any methods.
 
 # How to play
 - You can select options by typing in the number in parentheses next to the option
